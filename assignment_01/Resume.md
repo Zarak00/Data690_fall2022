@@ -4,9 +4,9 @@
 
 ## Work History
 
-**Digital Marketing Intern,** 05/2021 to 08/ 2021
+### Digital Marketing Intern, 05/2021 to 08/ 2021
 
-**Easy Event Planing**  
+#### Easy Event Planing 
 - Came up with content strategy, used WordPress Plugins, and did content marketing on various social media
 platforms 
 - Helped with Search Engine Optimization and learned how google algorithm works Worked with on-page
@@ -16,9 +16,9 @@ SEO, guest post strategy and writing off- page SEO
 businesses
 - Utilized on-site SEO and internal links to help with Google rankings
 
-**Digital Marketing Intern,** 01/2021 to 05/2021
+### Digital Marketing Intern, 01/2021 to 05/2021
 
-**MH Associations**
+#### MH Associations
 - Coordinated with Vendors via phone and email to get quotes
 - Created social media strategy and implement current trends to grow brand awareness
 - Coordinated meeting with the hired interns and discussed the ongoing agendas
