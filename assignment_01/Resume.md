@@ -1,3 +1,8 @@
+## Zarak Mahmood
+**Email** : zarakm40@gmail.com
+
+**Phone** : 443-583-9602
+
 ## Education
 * **Bachelor of Science** : Business Administration, Marketing
 * **Towson University**   - Towson, MD
